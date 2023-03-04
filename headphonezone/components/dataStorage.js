@@ -13,7 +13,7 @@ let dealsArr = [
       image2: 'https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-Lypertek-Pureplay-Z7-012_300x.jpg?v=1626431708',
       title: 'LYPERTEK - PurePlay Z7',
       subtitle: 'True Wireless Earbuds with 1 DD + 2 BA Drivers',
-      price: '₹ 9,999',
+      price: '₹ 19,999',
       price2: '₹ 19,999',
       rating: '24 reviews'
    },
