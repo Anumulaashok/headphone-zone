@@ -1,4 +1,4 @@
 [build]
   base = "headphonezone-react"
-  command = "cd headphonezone-react && npm run build"
-  publish = "headphonezone-react/build"
+  command = "npm run build"
+  publish = "build"
