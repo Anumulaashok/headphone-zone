@@ -1,3 +1,4 @@
 [build]
-  command = ""  # No build command needed for static site
-  publish = "headphonezone/"
+  base = "headphonezone-react"
+  command = "cd headphonezone-react && npm run build"
+  publish = "headphonezone-react/build"
